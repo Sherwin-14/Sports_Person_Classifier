@@ -6,13 +6,6 @@ This project is a machine learning model that classifies images of sports celebr
 
 The Sports Person Classifier uses OpenCV, an open-source computer vision and machine learning software library, for image processing. The Support Vector Machine (SVM) algorithm is used for classifying the images. The project includes a frontend developed using HTML, CSS, and JavaScript, and a backend developed using Flask.
 
-## Dataset
-
-The dataset consists of images of three sports celebrities:
-
-1. **Serena Williams**: An American professional tennis player. She has won 23 Grand Slam singles titles, the most by any player in the Open Era.
-2. **Virat Kohli**: An Indian cricketer and the former captain of the India national team. Kohli is regarded as one of the best contemporary batsmen in the world.
-3. **Lionel Messi**: An Argentine professional footballer who plays as a forward for Paris Saint-Germain and the Argentina national team. Messi is often considered the best player in the world and widely regarded as one of the greatest players of all time.
 
 ## Model
 
